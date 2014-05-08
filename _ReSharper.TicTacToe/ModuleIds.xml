@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="5EE8BB87-80B3-44D5-AF21-B7EAF417AA7F" ModuleId="TicTacToe.Classes" />
+  <Module PersistentId="59853D29-D3E2-4BCC-8727-7C5305020318" ModuleId="TicTacToe.UI" />
+</Modules>

@@ -1,0 +1,32 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="59853D29-D3E2-4BCC-8727-7C5305020318/f:Program.cs" caret="0" fromTop="0" />
+      <File id="5EE8BB87-80B3-44D5-AF21-B7EAF417AA7F/f:Player.cs" caret="287" fromTop="11" />
+      <File id="5EE8BB87-80B3-44D5-AF21-B7EAF417AA7F/f:IPlayerBrain.cs" caret="0" fromTop="0" />
+      <File id="5EE8BB87-80B3-44D5-AF21-B7EAF417AA7F/f:HumanPlayer.cs" caret="0" fromTop="0" />
+      <File id="5EE8BB87-80B3-44D5-AF21-B7EAF417AA7F/f:GameMove.cs" caret="0" fromTop="0" />
+      <File id="5EE8BB87-80B3-44D5-AF21-B7EAF417AA7F/f:MinimaxPlayerBrain.cs" caret="3049" fromTop="0" />
+      <File id="5EE8BB87-80B3-44D5-AF21-B7EAF417AA7F/f:GameEngine.cs" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits />
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+</Configuration>
